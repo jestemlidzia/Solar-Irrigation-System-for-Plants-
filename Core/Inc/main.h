@@ -68,6 +68,8 @@ void Error_Handler(void);
 #define LD2_GPIO_Port GPIOA
 #define soilSensor_Pin GPIO_PIN_1
 #define soilSensor_GPIO_Port GPIOB
+#define pompka_Pin GPIO_PIN_12
+#define pompka_GPIO_Port GPIOB
 #define TMS_Pin GPIO_PIN_13
 #define TMS_GPIO_Port GPIOA
 #define TCK_Pin GPIO_PIN_14
